@@ -1,8 +1,8 @@
 # 윷놀이 게임
 
-| 이름 |  GitHub ID | Email |
+| 이름 | 학번 | GitHub ID | Email |
 |:---:|:---|:---|:---|
-| 신종락|  ShinJongRock | whdfkr0630@gmail.com|
+| 양연지| 2020315002 | asdaff | su9king@gmail.com |
 
 구상및 설계  
 -----------------------
